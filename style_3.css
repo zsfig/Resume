@@ -1,0 +1,51 @@
+.title{
+    font-weight: bold;
+    font-size:16;
+    float: left;
+    background-color: #A8A8A8;
+    height:85px ;
+    width:85px;
+   
+    margin: 0%;
+    line-height: 85px;
+    text-align: center;
+}
+.headline{
+    font-weight: bold;
+    font-size:30px;
+    color:white;
+    /* text-align: center; */
+}
+.bold{
+    font-weight: bold;
+}
+.link{
+    color:blue;
+    text-decoration: underline; 
+}
+#div_headline{
+    background-color:#505050;
+    
+    height: 90px;
+    /* width: 100px; */
+}
+.content{
+    float: left;
+    height: 85px;
+   
+   margin: 0%;
+
+   
+}
+.div_block{
+    float: left;
+    height: 85px;
+    width: 100%;
+   margin-bottom:1px;
+   border-style: none none solid none;
+   border-color: gray;
+   /* border-style:solid;
+   border-bottom-style:dotted;
+   
+   border-bottom-width: 2px;   */
+}
