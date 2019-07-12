@@ -1,0 +1,23 @@
+.title{
+    font-weight: bold;
+    font-size:20;
+}
+.headline{
+    font-weight: bold;
+    font-size:30px;
+    color:white;
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.link{
+    color:blue;
+    text-decoration: underline; 
+}
+#div_headline{
+    background-color:#0099FF;
+    float: left;
+    height: 700px;
+    width: 100px;
+}
