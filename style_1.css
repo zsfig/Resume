@@ -1,0 +1,16 @@
+.title{
+    font-weight: bold;
+    font-size:20;
+}
+.headline{
+    font-weight: bold;
+    font-size:30px;
+
+}
+.bold{
+    font-weight: bold;
+}
+.link{
+    color:blue;
+    text-decoration: underline; 
+}
